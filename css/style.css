@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+    .table__line {
+
+    }
+
+    .table__element {
+        border: 3px solid black;
+        /*background-color: red;*/
+        width: 100px;
+        height: 100px;
+
+        text-align: center;
+    }
